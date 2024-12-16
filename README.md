@@ -11,7 +11,16 @@
   }
 
   .animated-heading {
-    animation: fadeSlideIn 2s ease-in-out;
+    display: inline-block;
+    animation: fadeSlideIn 2s ease-in-out forwards;
+  }
+
+  .animated-heading:nth-child(1) {
+    animation-delay: 0s;
+  }
+
+  .animated-heading:nth-child(2) {
+    animation-delay: 1s;
   }
 </style>
 
