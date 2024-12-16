@@ -1,8 +1,9 @@
-<h1 align="center" class="animated-heading">Hi! This is Faiza Maliat</h1>
+<h1 align="center" class="animated-heading"><strong>Hi! This is Faiza Maliat</strong></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=9370DB&center=true&vCenter=true&width=700&lines=Passionate+Developer+%26+Lifelong+Learner;Focused+on+Full-Stack+Development;Exploring+Machine+Learning+Possibilities;Solving+Real-World+Problems+Through+Code" alt="Typing SVG" />
 </p>
+
 
 
 
