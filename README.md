@@ -10,17 +10,20 @@
     }
   }
 
+  @keyframes moveHorizontally {
+    0% {
+      transform: translateX(0);
+    }
+    50% {
+      transform: translateX(20px);
+    }
+    100% {
+      transform: translateX(0);
+    }
+  }
+
   .animated-heading {
-    display: inline-block;
-    animation: fadeSlideIn 2s ease-in-out forwards;
-  }
-
-  .animated-heading:nth-child(1) {
-    animation-delay: 0s;
-  }
-
-  .animated-heading:nth-child(2) {
-    animation-delay: 1s;
+    animation: fadeSlideIn 2s ease-in-out, moveHorizontally 3s infinite;
   }
 </style>
 
