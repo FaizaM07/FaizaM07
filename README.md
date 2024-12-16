@@ -1,5 +1,22 @@
-<h1 align="center">Hi 👋, I'm Faiza Maliat</h1>
-<h3 align="center">A passionate developer and lifelong learner</h3>
+<style>
+  @keyframes fadeSlideIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-50px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .animated-heading {
+    animation: fadeSlideIn 2s ease-in-out;
+  }
+</style>
+
+<h1 align="center" class="animated-heading">Hi 👋, I'm Faiza Maliat</h1>
+<h3 align="center" class="animated-heading">A passionate developer and lifelong learner</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="480" height="270" alt="Coding GIF" />
