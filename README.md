@@ -5,27 +5,20 @@
 </p>
 
 
-
-
-
-
-
 <p align="center">
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="480" height="270" alt="Coding GIF" />
 </p>
 
-
-
 ---
 
-## 🌱 **About Me**
+
+## 🌟 **About Me**
 
 - 🎓 Junior-year Software Engineering student at **Islamic University of Technology (IUT)**.
-- 💻 Passionate developer and lifelong learner.
+- 💻 Passionate developer,problem solver and lifelong learner.
 - 🌐 Currently exploring **React Native**, **Next.js**, and **Machine Learning**.
 - 🤖 AI Enthusiast, exploring new AI technologies and applications.
 - 🧩 Fun Fact: I enjoy solving programming problems.Reading books and watching documentaries are my ultimate forms of relaxation.
-
 ---
 
 ## 🚀 **Technical Skills**
@@ -122,8 +115,7 @@
 </details>
 
 
-
-
+---
 
 ## 📊 **GitHub Stats**
 
@@ -134,33 +126,49 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FaizaM07&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
+
+<p align="center"> 🔗 Explore my repositories on <a href="https://github.com/FaizaM07">GitHub</a> for more exciting projects! </p>
+
+
+<!-- 
+  Copyright (c) 2024 by Faiza Maliat
+  This GitHub profile README is created and maintained by Faiza Maliat.
+-->
 
 ## 📞 **Contact Me**
 
-<p align="center">
+
+  <div align="center">
   <a href="mailto:faizamaliat@iut-dhaka.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img 
+      src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email" 
+    />
   </a>
   <a href="https://linkedin.com/in/faizamaliat">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+      alt="LinkedIn" 
+    />
   </a>
   <a href="https://codeforces.com/profile/invisiblecloak">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+    <img 
+      src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" 
+      alt="Codeforces" 
+    />
   </a>
-</p>
+  <img 
+    src="https://komarev.com/ghpvc/?username=FaizaM07&style=for-the-badge&color=FF69B4" 
+    alt="Profile Views" 
+  />
+</div>
 
----
 
-## 💡 **Fun Projects**
 
-- **[DoodleDuck](https://github.com/FaizaM07/doodleduck)**: A MERN stack project with an elegant frontend design and powerful backend routing.
-- **Personal Recipe Collection**: (Coming soon!)
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=9370DB&center=true&vCenter=true&width=600&lines=Keep+Coding+%26+Keep+Smiling!+😊;Happy+Learning+%26+Happy+Developing!+💻;" alt="Keep Coding & Smiling" />  </p>
 
----
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=FaizaM07&label=Profile+Views&color=brightgreen&style=flat" alt="Profile Views" />
-</p>
 
----
+<!-- 
+ yeeeee!!!! I am donee!!!!!!!!!!!! Well Doneee hmmm hmmmmmm........
+-->
