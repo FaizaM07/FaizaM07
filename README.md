@@ -151,7 +151,7 @@
       alt="LinkedIn" 
     />
   </a>
-  <a href="https://codeforces.com/profile/invisiblecloak">
+  <a href="https://codeforces.com/profile/Invisible_Cloak">
     <img 
       src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" 
       alt="Codeforces" 
