@@ -16,7 +16,7 @@
 
 - 🎓 Junior-year Software Engineering student at **Islamic University of Technology (IUT)**.
 - 💻 Passionate developer,problem solver and lifelong learner.
-- 🌐 Currently exploring **React.js**, **Next.js**, and **Machine Learning**.
+- 🌐 Currently exploring **React.js** and **Machine Learning**.
 - 🤖 AI Enthusiast, exploring new AI technologies and applications.
 - 🧩 Fun Fact: I enjoy solving programming problems.Reading books and watching documentaries are my ultimate forms of relaxation.
 ---
