@@ -14,7 +14,7 @@
 
 ## 🌟 **About Me**
 
-- 🎓 Junior-year Software Engineering student at **Islamic University of Technology (IUT)**.
+- 🎓 Senior-year Software Engineering student at **Islamic University of Technology (IUT)**.
 - 💻 Passionate developer,problem solver and lifelong learner.
 - 🌐 Currently exploring **React.js** and **Machine Learning**.
 - 🤖 AI Enthusiast, exploring new AI technologies and applications.
